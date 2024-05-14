@@ -11,8 +11,8 @@ O tema do concurso é: ```Agrinho: do campo à cidade, colhendo oportunidades```
 # [🎓] *Alunos*
 <ul>
   <li> Brendow Rodrigues - @ViolinistaEstudante </li>
-  <li> Keila Rita - @- </li>
-  <li> Vitor Magalhães - @- </li>
+  <li> Keila Rita - @KeilaRita </li>
+  <li> Vitor Magalhães - @Tiv53475 </li>
   <li> Marc Nelsi - @stivemarks123 </li>
 </ul>
 
