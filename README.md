@@ -18,21 +18,20 @@ O tema do concurso é: ```Agrinho: do campo à cidade, colhendo oportunidades```
 
 
 # [📌] *Objetivos definidos para o concurso*
-O objetivo é incentivar o desenvolvimento de projetos de Robótica aplicados à construção de protótipos  com materiais descartados/recicláveis ou tecnológicos e/ou eletrônicos, respeitando-se o tema do Concurso. 
+O objetivo é incentivar o desenvolvimento de projetos de Robótica aplicados à construção de protótipos com materiais descartados/recicláveis ou tecnológicos e/ou eletrônicos, respeitando o tema do Concurso. 
 
 Entre os objetivos específicos estão: desenvolver no aluno a capacidade de solucionar problemas,  incentivar a aprendizagem científica, estimular a sensação de pertencimento e de autoria, bem como  promover atividades que motivem a pesquisa e gerem a cooperação. 
 
-# [✍️] *Passo-a-passo*
-
 # [🔰] *Nosso pré-projeto*
-
+  ```🔒Seção será liberada Segunda-feira```
 # [✅] *Nosso projeto completo*
-
+  ```🔒Seção não tem data de liberação```
 # [📷] *Imagens e vídeos*
-
+  ```🔒Seção será liberada Segunda-feira```
 # [🏅] *Conclusão*
+  ```🔒Seção não tem data de liberação```
 <hr>
-<p align="center" >© Todos os direitos reservados para SEED e os alunos - Copyright 2024 </p>
+<p align="center" >&copy; Todos os direitos reservados para SEED e aos alunos responsáveis pelo projeto - Copyright 2024 </p>
 <div align= "center">
   <img height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   <img height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
