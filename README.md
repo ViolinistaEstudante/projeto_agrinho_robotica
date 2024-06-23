@@ -23,6 +23,8 @@ O objetivo é incentivar o desenvolvimento de projetos de Robótica aplicados à
 
 Entre os objetivos específicos estão: desenvolver no aluno a capacidade de solucionar problemas,  incentivar a aprendizagem científica, estimular a sensação de pertencimento e de autoria, bem como  promover atividades que motivem a pesquisa e gerem a cooperação. 
 
+# [📖] *Materiais para apresentação*
+  - [Slides](https://www.canva.com/design/DAGI_XsqRBs/ced1PYEVsozD-8ahBt1Ypg/edit?utm_content=DAGI_XsqRBs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 # [🔰] *Nosso pré-projeto*
   ```🔒Seção será liberada Segunda-feira```
 # [✅] *Nosso projeto completo*
