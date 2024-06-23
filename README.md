@@ -5,7 +5,7 @@ O tema do concurso é: ```Agrinho: do campo à cidade, colhendo oportunidades```
 **💬 Turma:** 2°C <br>
 **🏫 Instituição:** Colégio Estadual Cívico Militar Olivo Fracaro <br>
 **🌆 Cidade - Estado:** Cascavel - PR <br>
-**👋 Nome do nosso grupo:** The nerds
+**👋 Nome do nosso grupo:** The nerds 
 
 
 
