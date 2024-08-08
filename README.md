@@ -25,14 +25,11 @@ Entre os objetivos específicos estão: desenvolver no aluno a capacidade de sol
 
 # [📖] *Materiais para apresentação*
   - [Slides](https://www.canva.com/design/DAGI_XsqRBs/ced1PYEVsozD-8ahBt1Ypg/edit?utm_content=DAGI_XsqRBs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-# [🔰] *Nosso pré-projeto*
-  ```🔒Seção será liberada Segunda-feira```
-# [✅] *Nosso projeto completo*
-  ```🔒Seção não tem data de liberação```
-# [📷] *Imagens e vídeos*
-  ```🔒Seção será liberada Segunda-feira```
-# [🏅] *Conclusão*
-  ```🔒Seção não tem data de liberação```
+
+# [📷] *Imagens*
+  <div align= "center">
+    <img height="270" widht="280" src="https://github.com/user-attachments/assets/ec0a9f57-435d-4f71-999a-3c372c921f7f"> <hr>
+    <img height="270" widht="280" src="https://github.com/user-attachments/assets/e7256c00-4c0b-4bed-9ddd-bbabf0d9bd04">
 <hr>
 <p align="center" >&copy; Todos os direitos reservados para SEED e aos alunos responsáveis pelo projeto - Copyright 2024 </p>
 <div align= "center">
